@@ -1,0 +1,11 @@
+openai
+langchain
+streamlit
+python-dotenv
+PyPDF2
+
+-e .  # to install local package into your env
+
+
+# i could do this pip install -r requiremtns.txt 
+# OR  i could run stup.py , both will do the same thing
